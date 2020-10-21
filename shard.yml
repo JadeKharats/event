@@ -2,7 +2,7 @@ name: event
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - Jade D. Kharats <jade.kharats@gmail.com>
 
 targets:
   event:
